@@ -1,0 +1,18 @@
+{
+    "name": "cttricks/fruitask",
+    "description": "PHP library to communicate with Fruitask workspace easily",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cttricks",
+            "email": "help.cttricks@gmail.com"
+        }
+    ],
+	"autoload":{
+		"psr-4":{
+			"Fruitask\\": "src/"
+		}
+	},
+    "require": {}
+}
